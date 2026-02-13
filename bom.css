@@ -1,0 +1,39 @@
+.container {
+    border: 8px solid #016a26;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #009c37;
+    margin: 20PX 5PX 5PX 5PX;
+}
+
+.ite {
+    width: 50px;
+    margin: 2px;
+    padding: 10px;
+    font-size: 50px;
+    background-color: #016a26;
+}
+
+.GO {
+    background-color: NONE;
+    color: plum;
+}
+
+a {
+    text-align: center;
+    color: aliceblue;
+    margin: 20px 5PX 5PX 5PX;
+    padding: 25px 0;
+    background-color: #e5383b;
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #ba181b;
+    font-size: 40px;
+}
